@@ -1,0 +1,19 @@
+[
+ {
+	"Name":"WhatsApp",
+	"Icon":"whatsapp.ico",
+	"Path":"whatsapp.py"
+ }
+ ,
+ {
+	"Name":"Import",
+	"Icon":"import.ico",
+	"Path":"import.py"
+ }
+ ,
+ {
+	"Name":"Export",
+	"Icon":"export.ico",
+	"Path":"export.py"
+ }
+]
